@@ -1,0 +1,51 @@
+#main {
+  font-family: Noto Sans;
+  color: #212F3C;
+  background-color: #D6DBDF;
+  padding: 20px 30px 20px 30px;
+  margin: -10px;
+}
+#main h1, #main h2 {
+  text-align: center;
+}
+#main h2 {
+  font-size: 17px;
+  color: #616161;
+}
+#main h3 {
+  text-align: center;
+}
+#main li {
+  padding-top: 20px;
+}
+#main #img-caption {
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+#main img {
+  max-width: 100%;
+  display: block;
+  height: auto;
+  margin-left: auto;
+  margin-right: auto;
+}
+#main #img-div {
+  text-align: center;
+  background-color: white;
+  margin: 20px;
+}
+#main ul, #main p {
+  width: 100%;
+  max-width: 500px;
+  margin-left: auto;
+  margin-right: auto;
+}
+#main h3 {
+  font-size: 17px;
+}
+#main .bold {
+  font-weight: bold;
+}
+#main .italic {
+  font-style: italic;
+}
